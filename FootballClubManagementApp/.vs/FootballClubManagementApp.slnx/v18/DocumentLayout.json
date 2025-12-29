@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coding\\c#\\project\\FootballClubManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE005AA-2200-57ED-0A98-888B20B79CFF}|FootballClubManagement\\FootballClubManagement.csproj|d:\\coding\\c#\\project\\footballclubmanagementapp\\footballclubmanagement\\forms\\formshowclubs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE005AA-2200-57ED-0A98-888B20B79CFF}|FootballClubManagement\\FootballClubManagement.csproj|solutionrelative:footballclubmanagement\\forms\\formshowclubs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE005AA-2200-57ED-0A98-888B20B79CFF}|FootballClubManagement\\FootballClubManagement.csproj|d:\\coding\\c#\\project\\footballclubmanagementapp\\footballclubmanagement\\forms\\formshowclubs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDE005AA-2200-57ED-0A98-888B20B79CFF}|FootballClubManagement\\FootballClubManagement.csproj|solutionrelative:footballclubmanagement\\forms\\formshowclubs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE005AA-2200-57ED-0A98-888B20B79CFF}|FootballClubManagement\\FootballClubManagement.csproj|D:\\coding\\c#\\project\\FootballClubManagementApp\\footballclubmanagement\\forms\\formedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDE005AA-2200-57ED-0A98-888B20B79CFF}|FootballClubManagement\\FootballClubManagement.csproj|solutionrelative:footballclubmanagement\\forms\\formedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE005AA-2200-57ED-0A98-888B20B79CFF}|FootballClubManagement\\FootballClubManagement.csproj|d:\\coding\\c#\\project\\footballclubmanagementapp\\footballclubmanagement\\forms\\formedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE005AA-2200-57ED-0A98-888B20B79CFF}|FootballClubManagement\\FootballClubManagement.csproj|solutionrelative:footballclubmanagement\\forms\\formedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE005AA-2200-57ED-0A98-888B20B79CFF}|FootballClubManagement\\FootballClubManagement.csproj|d:\\coding\\c#\\project\\footballclubmanagementapp\\footballclubmanagement\\forms\\formedit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE005AA-2200-57ED-0A98-888B20B79CFF}|FootballClubManagement\\FootballClubManagement.csproj|solutionrelative:footballclubmanagement\\forms\\formedit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormShowClubs.cs",
+              "DocumentMoniker": "D:\\coding\\c#\\project\\FootballClubManagementApp\\FootballClubManagement\\Forms\\FormShowClubs.cs",
+              "RelativeDocumentMoniker": "FootballClubManagement\\Forms\\FormShowClubs.cs",
+              "ToolTip": "D:\\coding\\c#\\project\\FootballClubManagementApp\\FootballClubManagement\\Forms\\FormShowClubs.cs",
+              "RelativeToolTip": "FootballClubManagement\\Forms\\FormShowClubs.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAB8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:35:38.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormShowClubs.cs [Design]",
+              "DocumentMoniker": "D:\\coding\\c#\\project\\FootballClubManagementApp\\FootballClubManagement\\Forms\\FormShowClubs.cs",
+              "RelativeDocumentMoniker": "FootballClubManagement\\Forms\\FormShowClubs.cs",
+              "ToolTip": "D:\\coding\\c#\\project\\FootballClubManagementApp\\FootballClubManagement\\Forms\\FormShowClubs.cs [Design]",
+              "RelativeToolTip": "FootballClubManagement\\Forms\\FormShowClubs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:35:37.358Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormEdit.cs",
+              "DocumentMoniker": "D:\\coding\\c#\\project\\FootballClubManagementApp\\FootballClubManagement\\Forms\\FormEdit.cs",
+              "RelativeDocumentMoniker": "FootballClubManagement\\Forms\\FormEdit.cs",
+              "ToolTip": "D:\\coding\\c#\\project\\FootballClubManagementApp\\FootballClubManagement\\Forms\\FormEdit.cs",
+              "RelativeToolTip": "FootballClubManagement\\Forms\\FormEdit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T08:40:08.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormEdit.cs [Design]",
+              "DocumentMoniker": "D:\\coding\\c#\\project\\FootballClubManagementApp\\FootballClubManagement\\Forms\\FormEdit.cs",
+              "RelativeDocumentMoniker": "FootballClubManagement\\Forms\\FormEdit.cs",
+              "ToolTip": "D:\\coding\\c#\\project\\FootballClubManagementApp\\FootballClubManagement\\Forms\\FormEdit.cs [Design]",
+              "RelativeToolTip": "FootballClubManagement\\Forms\\FormEdit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T08:39:55.036Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormEdit.Designer.cs",
+              "DocumentMoniker": "D:\\coding\\c#\\project\\FootballClubManagementApp\\FootballClubManagement\\Forms\\FormEdit.Designer.cs",
+              "RelativeDocumentMoniker": "FootballClubManagement\\Forms\\FormEdit.Designer.cs",
+              "ToolTip": "D:\\coding\\c#\\project\\FootballClubManagementApp\\FootballClubManagement\\Forms\\FormEdit.Designer.cs",
+              "RelativeToolTip": "FootballClubManagement\\Forms\\FormEdit.Designer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwCYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T08:40:11.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
